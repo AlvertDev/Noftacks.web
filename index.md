@@ -1,16 +1,32 @@
-## Welcome to GitHub Pages
+## Bienvenido a Nuestro sitio web
 
-You can use the [editor on GitHub](https://github.com/AlvertDev/Noftacks.web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Somos una comunidad con tematica gaming, No llevamos! el gaming a otro nivel
+Haz nuevos amigos y disfruta con ellos a su juego favorito 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Servicios
 
-### Markdown
-qaqdwtgeghj
+• Tenemos #〘🎨〙colores y  #〘⭐〙autoroles
 
+• Tenemos eventos
 
-### Jekyll Themes
+• Canales de Juegos
+
+• Canales de voz
+
+• Canal de multimedia
+
+• Roles Especiales (Youtber, Streammer y VIPS)
+
+• Entra y descubre todo lo que esta hermosa comunidad te ofrece
+
+### Discordea
+
+LINK-NO-FOUND -> PROXIMAMENTE
+
+### Invitacion
 
 https://discord.gg/YPsqqEd
 
-### Support or Contact
-Para obtener soporte contactar con el programador @imalvert.
+### Support
+
+Para obtener soporte tecnico sobre el programador de este sitio web puedes contactarlo atravez de Twitter -> @imalvert
