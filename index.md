@@ -5,19 +5,19 @@ Haz nuevos amigos y disfruta con ellos a su juego favorito
 
 ### Servicios
 
-• Tenemos #〘🎨〙colores y  #〘⭐〙autoroles
+ Tenemos colores y autoroles
 
-• Tenemos eventos
+ Tenemos eventos
 
-• Canales de Juegos
+ Canales de Juegos
 
-• Canales de voz
+ Canales de voz
 
-• Canal de multimedia
+ Canal de multimedia
 
-• Roles Especiales (Youtber, Streammer y VIPS)
+ Roles Especiales (Youtber, Streammer y VIPS)
 
-• Entra y descubre todo lo que esta hermosa comunidad te ofrece
+ Entra y descubre todo lo que esta hermosa comunidad te ofrece
 
 ### Discordea
 
